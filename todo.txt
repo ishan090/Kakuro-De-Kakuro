@@ -1,0 +1,5 @@
+
+
+
+- Sequence class converts each element of the input list
+into a Cell in __init__
